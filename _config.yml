@@ -10,16 +10,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
+banner-title: the true nobility is being superior to your previous self!
 banner-desc: # add banner description
 
 # Author settings
-author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+author-pic: photo.jpg # your photo
+author-name: Jane01222
+about-author: IT、Java Engineer、Product designer、Product Manager、Writer
+email: 807206101@qq.com # your email
+phone: 187****6650 # your pnone number
+website: https://jane01222.github.io/ # you website
 
 # Social link
 google_url:    # add url link
